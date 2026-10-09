@@ -1,0 +1,28 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+*.egg
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Project / local data
+*.ccs
+*.xlsx
+*.pdf
+*.dxf
+mmkv.default
+mmkv.default.crc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

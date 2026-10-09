@@ -1,0 +1,6 @@
+# Control Cable Scheduler (app.py)
+# Python 3.10+ recommended; Tkinter comes with Python (stdlib)
+
+pymupdf>=1.24.0    # PDF text extraction (import fitz)
+ezdxf>=1.3.0       # DXF drawing support
+openpyxl>=3.1.0    # Excel export
